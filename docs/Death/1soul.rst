@@ -57,10 +57,10 @@ For the existence of soul : *Are there things about us that the physicalist cann
 
 **Free Will** : But all the programs are automatically, mechanically following the code. It seems that it does not have free will. And the assumption that we (human) have free will is based on the following arguments.
 
-* <u>We have free will.</u>
-* <u>Nothing subject to determinism has free will (Incompatibilism).</u> While many people hold the compatibilism, that the determinism and free will are compatible.
-* <u>All purely physical systems are subject to determinism.</u> However, the fundamental laws of physics are not in fact deterministic. Instead, it is probabilistic, according to the standard inerpretation of quantum mechanics.
-* <u>So, we are not a purely physical system.</u>
+* :underline:`We have free will.`
+* :underline:`Nothing subject to determinism has free will (Incompatibilism).` While many people hold the compatibilism, that the determinism and free will are compatible.
+* :underline:`All purely physical systems are subject to determinism.` However, the fundamental laws of physics are not in fact deterministic. Instead, it is probabilistic, according to the standard inerpretation of quantum mechanics.
+* :underline:`So, we are not a purely physical system.`
 
 6. Near Death Experiences
 ~~~~~~~~~~~~~~~~~~
@@ -86,7 +86,7 @@ We could consider the examples:
 * A : body, B : smile;
 * A : nom, B : prenom;
 * A : mind, B : body;
-* <u>A : evening star, B : morning star</u>
+* :underline:`A : evening star, B : morning star`
 
 For the case of evening star and morning star, we know that they are actullay the same entity, the Venus, whether I am aware of it or not. But maybe something went wrong here, otherwise the Descartes's argument won't hold (actually the Prof think the argument doesn't work in person). Many people argues about where this statement goes wrong:
 

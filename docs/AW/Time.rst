@@ -12,3 +12,8 @@ Humane "A time binding animal": a creature who is vivdly aware that his life as 
 from the past, through the present, and into the future. While animals tend to live moment by moment.
 Which gives us the ability to better plan the future. While we miss the truth that :
 **The true reality that we live, is the present moment "now".**
+
+We spend a lot living in time, which is not here, in else-where, which is not concrete real.
+So much so, that although we are quiet satisfied about our current circumstances.
+If there is not a guarantee or a promise that a good time coming tomorrow, tomorrow, and tomorrow,
+we are once unhappy, even we are in the mid of pleasure. 

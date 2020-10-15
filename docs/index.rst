@@ -13,6 +13,7 @@ Welcome to FOR-FUN's documentation!
    :caption: Contents:
 
    AW/Index
+   Death/Index
 
 Indices and tables
 ==================
