@@ -3,14 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to CFA-Learning's documentation!
+Welcome to FOR-FUN's documentation!
 ===================================
+
+`FOR FUN <for-fun.readthedocs.io>`_
 
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
 
-   CFA1/Index
+   AW/Index
 
 Indices and tables
 ==================

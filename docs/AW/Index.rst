@@ -1,8 +1,10 @@
-CFA Learning - Level 1
+Alan W. Watts' Lectures
 ===================
 
-My FOR-FUN document
+Alan W. Watts' Lectures
 
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
+
+   Time
