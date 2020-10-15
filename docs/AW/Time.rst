@@ -23,7 +23,7 @@ sensitivity of time. As a consequence, the future becomes more important for som
 We live so much in the future. School to college to work to etc... You are always living in somewhere, where you aren't.
 
 .. image:: images/donkey.jpg
-   :width: 60%
+   :width: 40%
    :align: center
 
 Planning for future is useful, while if we always live in the future, one can never enjoy the fruit of actions.
@@ -32,4 +32,4 @@ Planning for future is useful, while if we always live in the future, one can ne
 `The dream of life <https://genius.com/Alan-watts-the-dream-of-life-annotated>`_
 
 * Western world, linear thought of time, or even upping line (getting better).
-* While other culture, as a **CIRCLE** (watch) . And in Hinduism thought, it gets worse after each KALPA (consist of YUGA). 
+* While other culture, as a **CIRCLE** (watch) . And in Hinduism thought, it gets worse after each KALPA (consist of YUGA).
