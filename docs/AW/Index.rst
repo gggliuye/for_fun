@@ -8,3 +8,4 @@ Alan W. Watts' Lectures
    :caption: Contents:
 
    Time
+   MindOverMind
