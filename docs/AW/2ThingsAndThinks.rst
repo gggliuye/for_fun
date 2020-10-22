@@ -1,4 +1,4 @@
-3. Things and Thinks
+2. Things and Thinks
 ====================
 
 Each one experiences himself as a peculiarly separate being. Every man things of this world
