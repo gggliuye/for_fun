@@ -5,10 +5,10 @@ The Wheel of Life
 -----------------
 
 The Wheel of Life (轮回) : the wheel of stages of existence through which being pass, clutched
-by the great demon of impermanence (无常).
+by the great demon of **impermanence** (无常).
 
 .. image:: images/wheel_of_life.jpg
-   :width: 40%
+   :width: 60%
    :align: center
 
 * Human world. 人道.
@@ -40,6 +40,8 @@ eternal state of *Nirvana*.
 * 老死. Old age and death.
 * 愁、歎、苦、憂、惱.
 
+Buddhists do not think of these various realms of the wheel ar literal worlds, but they represents various phases of life.
+
 Karma
 ---------------
 
@@ -48,3 +50,7 @@ necessity for other actions. "This arises that becomes."
 
 Mainly the idea of *linkage*. Life and Death invlove each other, in the same way that the two ends of
 the brush, lifting up on involves lifting up the other. **Death and Life imply each other.**
+Karma also involves the idea of **continuity of patterns**.
+
+The interdependence of being and not being, of death and life. The demon of change is really a disguise
+of the very source of life. Death without which life is impossible, change without which life is totally boring.
