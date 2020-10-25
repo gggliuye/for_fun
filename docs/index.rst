@@ -27,9 +27,3 @@ My other documents
 
 * `Convex Optimization <https://cvx-learning.readthedocs.io/>`_
 * `Computer Vision <https://vio.readthedocs.io/>`_
-
-contact me
-============
-
-* `CV english 2020 <https://github.com/gggliuye/cvx_learning/blob/master/docs/cv/cv_english.pdf>`_
-* gggliuye@gmail.com
