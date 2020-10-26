@@ -17,5 +17,5 @@ This fascinating 18-part series stands unequaled in its brilliant analysis of mo
    4Void
    6Death
    8QueriesandSources
-   14LawOrder
+   12LawOrder
    MindOverMind
