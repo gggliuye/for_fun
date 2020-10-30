@@ -20,10 +20,10 @@ def get_response(msg):
 
 @itchat.msg_register(itchat.content.TEXT)
 def tuling_reply(msg):
-        defaultReply = 'I received: ' + msg['Text']
-        reply = get_response(msg['Text'])
-        time.sleep(1)
-        return reply or defaultReply
+    defaultReply = 'I received: ' + msg['Text']
+    reply = get_response(msg['Text'])
+    time.sleep(1)
+    return reply or defaultReply
 
 itchat.auto_login(hotReload=True)
 itchat.run()
