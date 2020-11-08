@@ -40,3 +40,14 @@ Objection: when we try to imagine my death (no thinking no personality, etc) fro
 Freud : "*After all, one's own death is beyond imagining, and whenever we try to imagine it we can see that we eally survive asspectators. Thus, the dictum could be dared in the psychoanalytic school: at bottom, no body believes in his own death. Or, and this is the same: in his unconscious, everyone of us is convinced of his immortality.*"
 
 Objection : this argument is horrible. For an example, imagine there is a meeting without you. The fact that I am smuggling as an observor doesn't mean I don't believe that I'm obesrving in my mind's eye. It doesn't mean you are in that world.
+
+Everyone Die Alone
+---------------------
+
+* Without the present of others.  obviously wrong.
+* Even with the presence of others, we complete this process alone. while we have cases in the battlefield.
+* He is doing it by himself, not corporate with others. Contra example: Group suicide.
+* When I die, even corporate with others, nobody could take my position.  It seems true that we will and we can only experience our own death.  But this seems uninteresting, not revealing anything deep. It is true about everything. If anyone eat my lunch, it will end up being their lunch. Nobody can eat "my" lunch.
+
+It is just a trivial statement talks about "My". This statement is talking about when we die,
+we are like being alone, feeling distant and lonely.  But it is not for everyone. 
