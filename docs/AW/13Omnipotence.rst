@@ -34,3 +34,5 @@ These creative deceptions are made to make our sciety more organized, and easier
 They are like rafts, it help to cross the river. while if keep it all the way after, it will become a burden.
 Zen is to free people from these burdens, to recover the view of the world with ful connectivities.
 (there is no agent ego to "do" with it, nor "not do" with it.)
+
+What does the wind say, Where is the cloud going?
