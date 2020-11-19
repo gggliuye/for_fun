@@ -1,4 +1,4 @@
-* Buddhism
+Buddhism
 ===================
 
 "Buddhism", by Christmas Humphreys.

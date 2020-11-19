@@ -1,4 +1,4 @@
-* Human Behavioral Biology
+Human Behavioral Biology
 ========================
 
 `A list of Robert Sapolsky's Lectures in youtube <https://www.youtube.com/playlist?list=PLD7E21BF91F3F9683>`_ ,

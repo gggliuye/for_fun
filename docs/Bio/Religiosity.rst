@@ -51,3 +51,5 @@ out rituals, and other people work hard to feed them) Historical example: 16th c
 
 Experiment with pigeons, with random reward, generate a "superstitious belief".
 Allow you to see casual link, that doesn't exist.
+
+Temporal lobe
