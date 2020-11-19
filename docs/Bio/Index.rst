@@ -1,8 +1,8 @@
 Human Behavioral Biology
 ========================
 
-`A list of Robert Sapolsky's Lectures in youtube <https://www.youtube.com/playlist?list=PLD7E21BF91F3F9683>`,
-`My notes and relative documents <https://1drv.ms/u/s!AlcTaQw_X72KhF-bB4_y_Oj85Bl7?e=hBeu45>`.
+`A list of Robert Sapolsky's Lectures in youtube <https://www.youtube.com/playlist?list=PLD7E21BF91F3F9683>`_ ,
+`My notes and relative documents <https://1drv.ms/u/s!AlcTaQw_X72KhF-bB4_y_Oj85Bl7?e=hBeu45>`_ .
 
 One of my favorite sentences :
 
