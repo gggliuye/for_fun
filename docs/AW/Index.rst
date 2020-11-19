@@ -1,4 +1,4 @@
-Eastern Wisdom and Modern Life
+* Eastern Wisdom and Modern Life
 ===================
 
 Eastern Wisdom and Modern Life

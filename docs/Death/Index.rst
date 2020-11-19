@@ -1,4 +1,4 @@
-Philo 176, Death
+* Philo 176, Death
 ===================
 
 Classes on Death, from Philosophy 176, of Yale University.
