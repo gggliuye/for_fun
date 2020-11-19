@@ -15,6 +15,7 @@ Welcome to FOR-FUN's documentation!
    AW/Index
    Buddhism/Index
    Death/Index
+   Bio/Index
 
 Indices and tables
 ==================
