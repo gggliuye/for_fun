@@ -17,8 +17,9 @@ Topology
 
 * Material Physics : `Topological Insulators <https://en.wikipedia.org/wiki/Topological_insulator>`_
 * String Theory : Twisted K-Theory is used to classify D-branes.
-* Robotics : configuration space -> motion plan.
+* Robotics : configuration space -> motion plan. `Robert Ghrist <https://www2.math.upenn.edu/~ghrist/research.html>`_
 * Fractal.  Hausdorff metric.
 * Morse theory among political scientists and economists.
 * Complexity of algorithms has been studied using topological techniques including the Borsuk-Ulam theorem.
 * Biology : molecular structures, `Knots and DNA <http://www.groupoids.org.uk/popmath/cpm/exhib/pagesexhib/appl1.html>`_
+* `Topological data analysis <https://en.wikipedia.org/wiki/Topological_data_analysis>`_
