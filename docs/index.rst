@@ -20,6 +20,7 @@ Enjoy!
    Buddhism/Index
    Death/Index
    Bio/Index
+   Math/Index
 
 Indices and tables
 ==================
