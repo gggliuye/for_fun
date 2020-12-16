@@ -8,6 +8,10 @@ Welcome to FOR-FUN's documentation!
 
 `FOR FUN <for-fun.readthedocs.io>`_
 
+Different topics that I am learning in my part-time, just for fun!
+
+Enjoy!
+
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
