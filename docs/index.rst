@@ -16,9 +16,8 @@ Enjoy!
    :maxdepth: 3
    :caption: Contents:
 
-   AW/Index
-   Buddhism/Index
-   Death/Index
+   Eastern/Index
+   Western/Index
    Bio/Index
    Math/Index
 
@@ -32,5 +31,6 @@ Indices and tables
 My other documents
 =========================
 
+* `Mine homepage <https://gggliuye.github.io/>`_
 * `Convex Optimization <https://cvx-learning.readthedocs.io/>`_
 * `Computer Vision <https://vio.readthedocs.io/>`_
