@@ -52,6 +52,7 @@ View
 
 * Negative side : the acient chinese relied too meticulously upon the classification of world and events based on these symbols.
 * Positive side : the book is founded in a view of life, which see not too much on the **causal relationship** between events as the **pattern of events**.
+
 Instead of understanding events by relation to past causes, it understands events by relation to their
 present pattern. In other words, it comprehends them by taking a total view instead of what we might
 call a linear view (of cause-result relation, the causality).

@@ -1,5 +1,5 @@
 Biological Underpinnings of Religiosity
-======================
+==========================================
 
 This is the 'final lecture' that he mentioned he decided
 not to record/post on the official Stanford version of this course.

@@ -3,23 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to FOR-FUN's documentation!
+Western Philosophy
 ===================================
 
 `FOR FUN <for-fun.readthedocs.io>`_
 
-Different topics that I am learning in my part-time, just for fun!
-
-Enjoy!
+For western philosophy.
 
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
 
-   Eastern/Index
-   Western/Index
-   Bio/Index
-   Math/Index
+   Death/Index
 
 Indices and tables
 ==================
