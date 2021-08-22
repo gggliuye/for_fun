@@ -15,17 +15,3 @@ For western philosophy.
    :caption: Contents:
 
    Death/Index
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-My other documents
-=========================
-
-* `Mine homepage <https://gggliuye.github.io/>`_
-* `Convex Optimization <https://cvx-learning.readthedocs.io/>`_
-* `Computer Vision <https://vio.readthedocs.io/>`_
