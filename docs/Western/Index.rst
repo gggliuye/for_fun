@@ -15,3 +15,4 @@ For western philosophy.
    :caption: Contents:
 
    Death/Index
+   Stoicism/Index

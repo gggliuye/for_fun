@@ -10,6 +10,10 @@ Welcome to FOR-FUN's documentation!
 
 Different topics that I am learning in my part-time, just for fun!
 
+Many parts are written in Chinese, as it is hard for me to translate some of the terminology.
+Lots of content is very subjective, please understand.
+
+
 Enjoy!
 
 .. toctree::
