@@ -14,5 +14,6 @@ For western philosophy.
    :maxdepth: 3
    :caption: Contents:
 
+   AncientGreece/Index
    Death/Index
    Stoicism/Index
