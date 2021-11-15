@@ -17,3 +17,5 @@ For western philosophy.
    AncientGreece/Index
    Death/Index
    Stoicism/Index
+   Rationalism/Index
+   Pragmatism/Index
