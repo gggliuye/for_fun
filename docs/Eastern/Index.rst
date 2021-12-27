@@ -17,3 +17,4 @@ For eastern philosophy.
    AW/Index
    Buddhism/Index
    Kong/Index
+   WangDeFen/Index
