@@ -18,3 +18,4 @@ For eastern philosophy.
    Buddhism/Index
    Kong/Index
    WangDeFen/Index
+   Mine/index
