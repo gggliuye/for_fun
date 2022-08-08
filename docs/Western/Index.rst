@@ -19,3 +19,4 @@ For western philosophy.
    Stoicism/Index
    Rationalism/Index
    Pragmatism/Index
+   Marx/Index

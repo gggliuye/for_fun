@@ -11,3 +11,4 @@ Classes on Death, from Philosophy 176, of Yale University.
    2DeathOfSoul
    3Identity
    4Death
+   5Rest
