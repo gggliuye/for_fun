@@ -34,3 +34,4 @@ Karl Marx
    :caption: Contents:
 
    WangDeFen
+   WuXiaoMing
