@@ -15,8 +15,10 @@ For western philosophy.
    :caption: Contents:
 
    AncientGreece/Index
-   Death/Index
    Stoicism/Index
    Rationalism/Index
-   Pragmatism/Index
+   Kant/Index
+   Hegel/Index
    Marx/Index
+   Pragmatism/Index
+   Death/Index
