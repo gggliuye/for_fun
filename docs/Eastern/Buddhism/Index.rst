@@ -8,3 +8,6 @@ Buddhism
    :caption: Contents:
 
    Buddhism
+   AlanWatts
+   Liangqc
+   Laiyh

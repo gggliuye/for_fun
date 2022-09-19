@@ -21,4 +21,6 @@ For western philosophy.
    Hegel/Index
    Marx/Index
    Pragmatism/Index
+   Political/Index
+   Logic/Index
    Death/Index
